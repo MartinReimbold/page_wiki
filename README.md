@@ -8,7 +8,7 @@ La grande Muraille de Chine
 
 Sommaire : 
 =
-[Introduction et présentation](#Introduction et présentation :)
+-[Introduction et présentation](#introduction-et-présentation)
 
 
 Introduction et présentation :
