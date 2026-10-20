@@ -8,7 +8,11 @@ La grande Muraille de Chine
 
 Sommaire : 
 =
--[Introduction et présentation](#introduction-et-présentation)
+- [Introduction et présentation](#introduction-et-présentation)
+- [Histoire de la construction](#histoire-de-la-construction)
+- [Architecture et caractéristiques](#architecture-et-caractéristiques)
+- [Rôle militaire et stratégique](#rôle-militaire-et-stratégique)
+- [La Grande Muraille aujourd'hui](#la-grande-muraille-aujourd'hui)
 
 
 Introduction et présentation :
