@@ -42,14 +42,12 @@ Comme présenté lors de l’introduction  , l’intervention de Qin Shi Huang f
 Sous le pouvoir des Han , le Grand Mur est considérablement allongé vers l’ouest, jusqu’à atteindre le couloir du Hexi et le bassin du Tarim.Soit environ 500 à 600km de murs et de tours de guet.
 
 
-|La période de division et Dynastie Sui :| 1 |
-|--------------------------------------------|
-|Tang Song et Yuan| 52 |
-|--------------------------------------------|
-|Dynastie Ming :| 46 |
-|--------------------------------------------|
-|Dynastie Qing et la fin de la construction :| 78 |
-|---------------------------------------------|
+| Les dynastie qui on construit le mur | Pourcentage |
+|---|---:|
+| Période de division et dynastie Sui | 1 |
+| Tang, Song et Yuan | 52 |
+| Dynastie Ming | 46 |
+| Dynastie Qing et fin de la construction | 78 |
 
 Citation « La Grande Muraille est une cicatrice sur le corps de la Chine, mais aussi son plus grand trésor. » — Mark Twain
 
