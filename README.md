@@ -136,9 +136,10 @@ Car , même si sa fonction militaire a disparu, la Grande Muraille conserve une 
 Source
 =
 1. [Wikipedia](https://fr.wikipedia.org/wiki/Grande_Muraille)
-2. [Centre du patrimoine mondial](c)
-3.
-4. Aaron et ces cours de LV2 Chinois
+2. [Centre du patrimoine mondial](https://whc.unesco.org/fr/list/438/ )
+3. [Britannica](https://www.britannica.com/topic/Great-Wall-of-China)
+4. [National Geographic](https://www.nationalgeographic.fr/histoire/la-grande-muraille-de-chine-histoire-dun-fiasco-militaire )
+5. Aaron et ces cours de LV2 Chinois
 
 ```python 
 print("Hello China")
