@@ -70,9 +70,9 @@ La dynastie mandchoue des Qing, issue directement de la région du nord que le m
 > — UNESCO, [Centre du patrimoine mondial](https://whc.unesco.org/pg.cfm?CID=31&ID_SITE=438&l=EN) (traduction de l’anglais)
 
 
-Architecture et ~~karakté~~ caractéristiques
-=
 Architecture et caractéristiques
+=
+Architecture et ~~karakté~~  caractéristiques
 Comme clarifié précédemment, la Grande Muraille de Chine ne s’agit pas d’une structure linéaire mais bien d’un réseau complexe de fortifications qui s’étendent sur plus de 21 000 km. Son architecture varie selon les différentes périodes :
 Les matériaux qui composent le mur ont évolué au fil des dynasties :
 (IIIe siècle av. J.-C.-IIIe siècle apr. J.-C.) Durant les périodes de la dynastie Qin et Han, la majorité du mur, et en particulier les zones arides du nord-ouest, était constituée de terre compactée entre des coffrages en bois. Dans le désert de Gobi, on retrouve des couches qui alternent entre du sable et du gravier ainsi que des branches de saule ou de tamaris afin de résister à l’érosion.
