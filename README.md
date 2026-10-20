@@ -69,7 +69,7 @@ La Muraille permetté donc de :
 * Contrôler les passages empruntés par les voyageurs et les marchands
 * Ralentir les attaques ennemies 
 
-#### Mais ce système été imparfait. 
+## Mais ce système été imparfait. 
 Même si elle été très grande la Grande Muraille n'était pas infranchissable. Et sont efficacité été fortement réduite avec un nombre de soldat réduit , car l'entretient des fortifications et la coordination entre les postes nécessiter une grande quantité d'hommes.Elle ne pouvait donc pas empêcher toutes les invasions . 
 
 La Grande Muraille aujourd'hui
@@ -78,7 +78,10 @@ Aujourd'hui , la Grande Muraille de Chine est devenue un monument historique maj
 
 Elle est également inscrite au patrimoine mondial de l'UNESCO depuis 1987.
 
-#### Le tourisme et le patrimoine 
+## Le tourisme et le patrimoine 
+
+Certains segmant du mur , comme Badaling , près de Pekin , on été aménagées pour acceuillir les visiteurs . La visite du lieu inclues les fortifications et les tours de guets qui permettent d'avoir une vue imprenable sur les paysages alentours.
+La Muraille est donc un symbole de l'histoire chinoise 
 
 Source
 =
