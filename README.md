@@ -18,7 +18,6 @@ Sommaire
 
 Introduction et présentation
 =
-####
 La Grande Muraille de Chine regroupe un ensemble de systèmes de défenses composées de fortifications anciennes construites en Chine et dans le nord de l’Asie de l’Est . Elle regroupe des fossés , des bastions , des tour de guets et evidemment des murs, qui ensemble mesure plus de **_21 196 km_** ! .
 
 Pour la Grande Muraille de Chine  ,Tout commence aux alentours de la **Periode des primtemps et Automnes** ,  771 à 481/453 av J.-C. Et de la période des Royaumes combattants (475-221 av J.-C.). 
@@ -30,6 +29,7 @@ Histoire de la construction
 =
 ####
 ![Photo de la Grande Muraille de Chine](/Photo/construction.jpg)
+
 Contrairement a ce que l’on pourrait bien croire , la construction de la _Grande Muraille de Chine_ s’étend sur plus de deux millénaires !  . 
 Elle n’est pas uniquement un mur unique,  mais **un réseau complexe de dispositifs de protection**. Ses caractéristiques architecturales ont évolué au fil du temps.
 
@@ -108,6 +108,8 @@ Même si elle été très grande la Grande Muraille n'était pas infranchissable
 
 La Grande Muraille aujourd'hui
 = 
+![Photo de la Grande Muraille de Chine](/Photo/tourisme.jpg)
+
 Aujourd'hui , la Grande Muraille de Chine est devenue un monument historique majeur de la Chine. Elle attire des touristes du mondes enitier attirée par sa taille impréssionnate et son aspect historique.
 
 Elle est également inscrite au patrimoine mondial de l'UNESCO depuis 1987.
