@@ -86,10 +86,10 @@ La Muraille est donc un symbole de l'histoire chinoise
 **_La Muraille nécessite un effort de conservation_**
 
 Malgré son importance, le monument est confronté à plusieurs difficultés :
-    * L'érosion naturelle, provoquée notamment par le vent et les intempéries.
-    * Les dégradations humaines, liées au passage des visiteurs ou aux prélèvements de matériaux.
-    * Les aménagements touristiques, qui peuvent modifier l'aspect de certains paysages.
-    * Les besoins de restauration, car les différentes sections ne sont pas toutes dans le même état de conservation.
+* L'érosion naturelle, provoquée notamment par le vent et les intempéries.
+* Les dégradations humaines, liées au passage des visiteurs ou aux prélèvements de matériaux.
+* Les aménagements touristiques, qui peuvent modifier l'aspect de certains paysages.
+* Les besoins de restauration, car les différentes sections ne sont pas toutes dans le même état de conservation.
 
 
 
