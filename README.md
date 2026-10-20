@@ -39,8 +39,6 @@ Avant même l’existence de fortifications commence avant l’unification des d
 Comme présenté lors de l’introduction  , l’intervention de Qin Shi Huang fut crucial lors de l’unification de ces différentes fortifications isolées afin de créer une ligne défensive continue contre les Xiongnu , confédération nomade du nord.Pour accomplir une tel prouesse , des centaines de milliers de soldats et paysans ainsi que prisonniers seront mobilisés pour relier les différentes sections.
 
 **Dynastie Han : l’extension vers l’ouest (IIe siècel av. J.-C./ IIIe siècle apr. J.-C.)**:
-Sous le pouvoir des Han , le Grand Mur est considérablement allongé vers l’ouest, jusqu’à atteindre le couloir du Hexi et le bassin du Tarim.Soit environ 500 à 600km de murs et de tours de guet.
-Dynastie Han : l’extension vers l’ouest (IIe siècle av. J.-C. – IIIe siècle apr. J.-C.) :
 Sous le pouvoir des Han, le Grand Mur est considérablement allongé vers l’ouest, jusqu’à atteindre le couloir du Hexi et le bassin du Tarim. Soit environ 500 à 600 km de murs et de tours de guet. Ils renforcent notamment les défenses du nord et implémentent des signaux lumineux et des postes militaires. Les matériaux utilisés restent cependant très basiques.
 La période de division et Dynastie Sui (581-618) :
 Après la chute de la dynastie Han, durant la période de fragmentation, plusieurs régimes construisent ou réparent des sections de mur. La dynastie Sui entreprendra surtout un rôle important dans les restaurations, consolidant les sections déjà présentes ainsi qu’en construisant de nouvelles pour contenir les menaces turques. Cette époque présente cependant une baisse de l’investissement dans les fortifications frontalières, étant donné que les ressources furent davantage orientées vers l’architecture interne et la reconstruction.
@@ -54,10 +52,13 @@ La dynastie mandchoue des Qing, issue directement de la région du nord que le m
 
 | Les dynastie qui on construit le mur | Leur role |
 |---|---:|
-| Période de division et dynastie Sui |  |
-| Tang, Song et Yuan | 52 |
-| Dynastie Ming | 46 |
-| Dynastie Qing et fin de la construction | 78 |
+|Periode des printemps et Automnes et Royaunes combattants |constructions de fortifications indépendantes|
+|Dynastie Qin avec l’unification des remparts |unification des remparts isolées|
+|dynastie Han |extension vers l'ouest du mur|
+|La période de division et Dynastie Sui|rénovations majeures|
+| Tang, Song et Yuan | délaissement partielle des avancées|
+| Dynastie Ming |l'âge d'or de la pierre et de la brique (forme la plus populaires)|
+| Dynastie Qing et fin de la construction |arrêt definitif des travaux|
 
 > Citation « La Grande Muraille est une cicatrice sur le corps de la Chine, mais aussi son plus grand trésor. » — Mark Twain
 
