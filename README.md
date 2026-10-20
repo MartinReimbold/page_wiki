@@ -130,7 +130,7 @@ Car , même si sa fonction militaire a disparu, la Grande Muraille conserve une 
 Source
 =
 1. [Wikipedia](https://fr.wikipedia.org/wiki/Grande_Muraille)
-2.
+2. [Centre du patrimoine mondial](c)
 3.
 4. Aaron et ces cours de LV2 Chinois
 
