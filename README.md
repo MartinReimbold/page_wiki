@@ -61,7 +61,7 @@ Architecture et caractéristiquesArchitecture et caractéristiquesArchitecture e
 
 Rôle militaire et stratégique
 =
-Le bût de cette muraille été pricnipalement de surveiller et de défendre la frontière nord de la Chine . Elles font partie d'un ensemble de fortifications , de tours de guet et de forteresses. 
+Le bût de cette muraille été principalement de surveiller et de défendre la frontière nord de la Chine . Elles font partie d'un ensemble de fortifications , de tours de guet et de forteresses. 
 
 La Muraille permetté donc de : 
 * Surveiller les alentours depuis les tours de guet , pour voir les mouvements ennemis.
@@ -69,7 +69,7 @@ La Muraille permetté donc de :
 * Contrôler les passages empruntés par les voyageurs et les marchands
 * Ralentir les attaques ennemies 
 
-## Mais ce système été imparfait. 
+**_Mais ce système été imparfait._**
 Même si elle été très grande la Grande Muraille n'était pas infranchissable. Et sont efficacité été fortement réduite avec un nombre de soldat réduit , car l'entretient des fortifications et la coordination entre les postes nécessiter une grande quantité d'hommes.Elle ne pouvait donc pas empêcher toutes les invasions . 
 
 La Grande Muraille aujourd'hui
@@ -78,10 +78,20 @@ Aujourd'hui , la Grande Muraille de Chine est devenue un monument historique maj
 
 Elle est également inscrite au patrimoine mondial de l'UNESCO depuis 1987.
 
-## Le tourisme et le patrimoine 
+**_Le tourisme et le patrimoine_**
 
 Certains segmant du mur , comme Badaling , près de Pekin , on été aménagées pour acceuillir les visiteurs . La visite du lieu inclues les fortifications et les tours de guets qui permettent d'avoir une vue imprenable sur les paysages alentours.
 La Muraille est donc un symbole de l'histoire chinoise 
+
+**_La Muraille nécessite un effort de conservation_**
+
+Malgré son importance, le monument est confronté à plusieurs difficultés :
+    * L'érosion naturelle, provoquée notamment par le vent et les intempéries.
+    * Les dégradations humaines, liées au passage des visiteurs ou aux prélèvements de matériaux.
+    * Les aménagements touristiques, qui peuvent modifier l'aspect de certains paysages.
+    * Les besoins de restauration, car les différentes sections ne sont pas toutes dans le même état de conservation.
+
+
 
 Source
 =
