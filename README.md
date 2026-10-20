@@ -91,6 +91,10 @@ Malgré son importance, le monument est confronté à plusieurs difficultés :
 * Les aménagements touristiques, qui peuvent modifier l'aspect de certains paysages.
 * Les besoins de restauration, car les différentes sections ne sont pas toutes dans le même état de conservation.
 
+**C'est pour ça que la Muraille est un patrimoine à protéger.** Elle nécessite de nombreux travaux d'entretien et de réstauration , adapté à chaque section. L'objectif est de protéger les vestiges historiques tout en permettant au public de les découvrir.
+Car , même si sa fonction militaire a disparu, la Grande Muraille conserve une grande importance historique et culturelle. 
+
+
 
 
 Source
