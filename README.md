@@ -65,7 +65,8 @@ Le bût de cette muraille été pricnipalement de surveiller et de défendre la 
 La Muraille permetté donc de : 
 * Surveiller les alentours depuis les tours de guet , pour voir les mouvements ennemis.
 * Transmettre des alertes grâce à des signaux de fumée , pour prevenir d'autres postes de la muraille
-* Contrôler les passages empruntés par les voyageurs et els marchands
+* Contrôler les passages empruntés par les voyageurs et les marchands
+* Ralentir les attaques ennemies 
 
 La Grande Muraille aujourd'hui
 = 
