@@ -58,6 +58,7 @@ Architecture et caractéristiquesArchitecture et caractéristiquesArchitecture e
 
 
 
+
 Rôle militaire et stratégique
 =
 Le bût de cette muraille été pricnipalement de surveiller et de défendre la frontière nord de la Chine . Elles font partie d'un ensemble de fortifications , de tours de guet et de forteresses. 
@@ -67,6 +68,9 @@ La Muraille permetté donc de :
 * Transmettre des alertes grâce à des signaux de fumée , pour prevenir d'autres postes de la muraille
 * Contrôler les passages empruntés par les voyageurs et les marchands
 * Ralentir les attaques ennemies 
+
+**Mais ce système été imparfait.**
+Même si elle été très grande la Grande Muraille n'était pas infranchissable. Et sont efficacité été fortement réduite avec un nombre de soldat réduit , car l'entretient des fortifications et la coordination entre les postes nécessiter une grande quantité d'hommes.Elle ne pouvait donc pas empêcher toutes les invasions . 
 
 La Grande Muraille aujourd'hui
 = 
