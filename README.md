@@ -29,7 +29,23 @@ L'histoire de la Grande Muraille de Chine commence lorsque des fortifications co
 Histoire de la construction
 =
 ####
-Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .Ce texte sert de remplissage en attendant du super contenue .
+Contrairement a ce que l’on pourrait bien croire , la construction de la Grande Muraille s’étend sur plus de deux millénaires, elle ne s’arrête pas à l’intervention du premier empereur chinois . La construction
+La Grande Muraille n’est pas uniquement un mur unique mais un réseau complexe de dispositifs de protection. Ses caractéristiques architecturales ont évolué au fil du temps.
+
+Periode des printemps et Automnes et Royaunes combattants (VIIIe siècle av. J.-C.) :
+Avant même l’existence de fortifications commence avant l’unification des différents états de l’empire .Durant cette période, les différents  états chinois érigent indépendemment des remparts pour se protéger des incursions concernées . Il s’agira des piliers de la construction de la Grande Muraille.
+
+Dynastie Qin avec l’unification des remparts :
+Comme présenté lors de l’introduction  , l’intervention de Qin Shi Huang fut crucial lors de l’unification de ces différentes fortifications isolées afin de créer une ligne défensive continue contre les Xiongnu , confédération nomade du nord.Pour accomplir une tel prouesse , des centaines de milliers de soldats et paysans ainsi que prisonniers seront mobilisés pour relier les différentes sections.
+
+dynastie Han : l’extension vers l’ouest (IIe siècel av. J.-C./ IIIe siècle apr. J.-C.):
+Sous le pouvoir des Han , le Grand Mur est considérablement allongé vers l’ouest, jusqu’à atteindre le couloir du Hexi et le bassin du Tarim.Soit environ 500 à 600km de murs et de tours de guet.
+La période de division et Dynastie Sui :
+Tang Song et Yuan
+Dynastie Ming :
+Dynastie Qing et la fin de la construction :
+
+Citation « La Grande Muraille est une cicatrice sur le corps de la Chine, mais aussi son plus grand trésor. » — Mark Twain
 
 
 Architecture et ~~karakté~~ caractéristiques
