@@ -12,7 +12,7 @@ Sommaire
 - [Histoire de la construction](#histoire-de-la-construction)
 - [Architecture et caractéristiques](#architecture-et-caractéristiques)
 - [Rôle militaire et stratégique](#rôle-militaire-et-stratégique)
-- [La Grande Muraille aujourd'hui](#la-grande-muraille-aujourd'hui)
+- [La Grande Muraille aujourd'hui](#la-grande-muraille-aujourdhui)
 
 
 Introduction et présentation
