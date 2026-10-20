@@ -76,11 +76,14 @@ Comme clarifié précédemment, la Grande Muraille de Chine ne s’agit pas d’
 Les matériaux qui composent le mur ont évolué au fil des dynasties :
 (IIIe siècle av. J.-C.-IIIe siècle apr. J.-C.) Durant les périodes de la dynastie Qin et Han, la majorité du mur, et en particulier les zones arides du nord-ouest, était constituée de terre compactée entre des coffrages en bois. Dans le désert de Gobi, on retrouve des couches qui alternent entre du sable et du gravier ainsi que des branches de saule ou de tamaris afin de résister à l’érosion.
 (1368-1644) Sous la dynastie Ming, comme mentionné précédemment, la construction fut grandement améliorée. Les murs, maintenant revêtus de briques cuites et de blocs de pierre taillée, offraient une bien meilleure résistance aux intempéries mais aussi aux assauts. Un substitut fait à base de chaux et de colle de riz gluant servait à lier les briques.
-(tableau à faire, peut être?)
+
 Structure et dimensions :
-Hauteur : Entre 6 et 8 mètres, atteignant même 14 mètres pour les sections stratégiques les plus élevées.
-Largeur : Variant de 4 à 5 mètres d’épaisseur.
-Forme : Un mur suivant les crêtes des montagnes et des collines (avantage stratégique).
+|Caractéristiques| Données |
+|---|---:|
+|Hauteur|Entre 6 et 8 mètres, atteignant même 14 mètres pour les sections stratégiques les plus élevées|
+|Largeur|Variant de 4 à 5 mètres d’épaisseur|
+|Forme |Un mur suivant les crêtes des montagnes et des collines (avantage stratégique)|
+
 Fonctionnalités défensives :
 Le système comprend plusieurs structures qui complètent le rempart principal. On retrouve des tours de guet espacées d’environ 100 à 200 mètres, ces tours servaient à la surveillance mais aussi au transport et stockage de provisions et d’armes.
 On retrouve des bastions et des tours de tir qui, à l’inverse, vont servir aux archers à couvrir les murs sous une multitude d’angles différents, afin d’éliminer les angles morts.
