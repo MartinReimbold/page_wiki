@@ -1,5 +1,5 @@
 
-La grande Muraille de Chine 
+La grande Muraille de Chine  - 长城 
 ==============================
 ![Photo de la Grande Muraille de Chine](/Photo/Grande_Muraille_De_chine.jpg)
 
