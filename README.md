@@ -43,9 +43,13 @@ Sous le pouvoir des Han , le Grand Mur est considérablement allongé vers l’o
 
 
 |La période de division et Dynastie Sui :| 1 |
+|--------------------------------------------|
 |Tang Song et Yuan| 52 |
+|--------------------------------------------|
 |Dynastie Ming :| 46 |
+|--------------------------------------------|
 |Dynastie Qing et la fin de la construction :| 78 |
+|---------------------------------------------|
 
 Citation « La Grande Muraille est une cicatrice sur le corps de la Chine, mais aussi son plus grand trésor. » — Mark Twain
 
