@@ -59,7 +59,7 @@ La dynastie mandchoue des Qing, issue directement de la région du nord que le m
 | Dynastie Ming | 46 |
 | Dynastie Qing et fin de la construction | 78 |
 
-Citation « La Grande Muraille est une cicatrice sur le corps de la Chine, mais aussi son plus grand trésor. » — Mark Twain
+> Citation « La Grande Muraille est une cicatrice sur le corps de la Chine, mais aussi son plus grand trésor. » — Mark Twain
 
 
 Architecture et ~~karakté~~ caractéristiques
@@ -127,7 +127,6 @@ Source
 3.
 4. Aaron et ces cours de LV2 Chinois
 
-'''
+```python 
 print("Hello China")
-'''
-'''
+```
