@@ -29,6 +29,7 @@ L'histoire de la Grande Muraille de Chine commence lorsque des fortifications co
 Histoire de la construction
 =
 ####
+![Photo de la Grande Muraille de Chine](/Photo/construction.jpg)
 Contrairement a ce que l’on pourrait bien croire , la construction de la _Grande Muraille de Chine_ s’étend sur plus de deux millénaires !  . 
 Elle n’est pas uniquement un mur unique,  mais **un réseau complexe de dispositifs de protection**. Ses caractéristiques architecturales ont évolué au fil du temps.
 
