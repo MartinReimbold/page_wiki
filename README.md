@@ -18,10 +18,10 @@ Sommaire
 
 Introduction et présentation
 =
-La Grande Muraille de Chine regroupe un ensemble de systèmes de défenses composées de fortifications anciennes construites en Chine et dans le nord de l’Asie de l’Est . Elle regroupe des fossés , des bastions , des tour de guets et evidemment des murs, qui ensemble mesure plus de **_21 196 km_** ! .
+La Grande Muraille de Chine regroupe un ensemble de systèmes de défenses composés de fortifications anciennes construites en Chine et dans le nord de l’Asie de l’Est . Elle regroupe des fossés , des bastions , des tours de guet et évidemment des murs, qui , ensemble , mesurent plus de **_21 196 km_** ! .
 
-Pour la Grande Muraille de Chine  ,Tout commence aux alentours de la **Periode des primtemps et Automnes** ,  771 à 481/453 av J.-C. Et de la période des Royaumes combattants (475-221 av J.-C.). 
-Sous les ordres du premier empereur de Chine ,**Qin Shi Huang** (empereur de Chine , rattaché à la Dynastie Qin), sont reliées entre elles les multitudes de fortifications construites par ces divers Etats.L’objectif recherché par l’empereur était claire , proteger le territoire nouvellement fondé de sa dynastie (221-206 av J-C) des différentes incursions nomades des steppes du nord.Les murs s’étendent du **Gansu** jusqu’à la côte sud de la **Mandchourie** .
+Pour la Grande Muraille de Chine  ,Tout commence aux alentours de la **Periode des Primtemps et des Automnes** ,  771 à 481/453 av J.-C. Et de la période des Royaumes combattants (475-221 av J.-C.). 
+Sous les ordres du premier empereur de Chine ,**Qin Shi Huang** (empereur de Chine , rattaché à la Dynastie Qin), sont reliées entre elles les multitudes de fortifications construites par ces divers Etats.L’objectif recherché par l’empereur était clair , protéger le territoire nouvellement fondé de sa dynastie (221-206 av J-C) des différentes incursions nomades des steppes du nord.Les murs s’étendent du **Gansu** jusqu’à la côte sud de la **Mandchourie** .
 
 L'histoire de la Grande Muraille de Chine commence lorsque des fortifications construites par divers États de la période des Printemps et Automnes (771 - 476 av. J.-C.) et de la période des Royaumes combattants (475 - 221 av. J.-C.) sont reliées entre elles sur ordre de Qin Shi Huang, le premier empereur de Chine, pour protéger le territoire de la dynastie Qin (221 - 206 av. J.-C.) nouvellement fondée contre les incursions des nomades des steppes du nord. Les murs qui la composent sont construits en terre battue, en utilisant le travail forcé. Finalement, en 212 av. J.-C., elle s'étend du _Gansu jusqu'à la côte du sud de la Mandchourie_.
 
@@ -30,17 +30,17 @@ Histoire de la construction
 ####
 ![Photo de la Grande Muraille de Chine](/Photo/construction.jpg)
 
-Contrairement a ce que l’on pourrait bien croire , la construction de la _Grande Muraille de Chine_ s’étend sur plus de deux millénaires !  . 
+Contrairement à ce que l’on pourrait bien croire , la construction de la _Grande Muraille de Chine_ s’étend sur plus de deux millénaires !  . 
 Elle n’est pas uniquement un mur unique,  mais **un réseau complexe de dispositifs de protection**. Ses caractéristiques architecturales ont évolué au fil du temps.
 
 **Periode des printemps et Automnes et Royaunes combattants (VIIIe siècle av. J.-C.)** :
-Avant même l’existence de fortifications commence avant l’unification des différents états de l’empire .Durant cette période, les différents  états chinois érigent indépendemment des remparts pour se protéger des incursions concernées . Il s’agira des piliers de la construction de la Grande Muraille.
+Avant même l’existence de fortifications commence avant l’unification des différents états de l’empire .Durant cette période, les différents  états chinois érigent indépandemment des remparts pour se protéger des incursions concernées . Il s’agira des piliers de la construction de la Grande Muraille.
 
 **Dynastie Qin avec l’unification des remparts** :
-Comme présenté lors de l’introduction  , l’intervention de Qin Shi Huang fut crucial lors de l’unification de ces différentes fortifications isolées afin de créer une ligne défensive continue contre les Xiongnu , confédération nomade du nord.Pour accomplir une tel prouesse , des centaines de milliers de soldats et paysans ainsi que prisonniers seront mobilisés pour relier les différentes sections.
+Comme présenté lors de l’introduction  , l’intervention de Qin Shi Huang fut crucial lors de l’unification de ces différentes fortifications isolées afin de créer une ligne défensive continue contre les Xiongnu , confédération nomade du nord.Pour accomplir une telle prouesse , des centaines de milliers de soldats et paysans ainsi que prisonniers seront mobilisés pour relier les différentes sections.
 
 **Dynastie Han : l’extension vers l’ouest (IIe siècel av. J.-C./ IIIe siècle apr. J.-C.)**:
-Sous le pouvoir des Han, le Grand Mur est considérablement allongé vers l’ouest, jusqu’à atteindre le couloir du Hexi et le bassin du Tarim. Soit environ 500 à 600 km de murs et de tours de guet. Ils renforcent notamment les défenses du nord et implémentent des signaux lumineux et des postes militaires. Les matériaux utilisés restent cependant très basiques.
+Sous le pouvoir des Han, la Grand Muraille est considérablement allongé vers l’ouest, jusqu’à atteindre le couloir du Hexi et le bassin du Tarim. Soit environ 500 à 600 km de murs et de tours de guet. Ils renforcent notamment les défenses du nord et implémentent des signaux lumineux et des postes militaires. Les matériaux utilisés restent cependant très basiques.
 
 **La période de division et Dynastie Sui (581-618)** :
 Après la chute de la dynastie Han, durant la période de fragmentation, plusieurs régimes construisent ou réparent des sections de mur. La dynastie Sui entreprendra surtout un rôle important dans les restaurations, consolidant les sections déjà présentes ainsi qu’en construisant de nouvelles pour contenir les menaces turques. Cette époque présente cependant une baisse de l’investissement dans les fortifications frontalières, étant donné que les ressources furent davantage orientées vers l’architecture interne et la reconstruction.
@@ -111,13 +111,13 @@ La Grande Muraille aujourd'hui
 = 
 ![Photo de la Grande Muraille de Chine](/Photo/tourisme.jpg)
 
-Aujourd'hui , la Grande Muraille de Chine est devenue un monument historique majeur de la Chine. Elle attire des touristes du mondes enitier attirée par sa taille impréssionnate et son aspect historique.
+Aujourd'hui , la Grande Muraille de Chine est devenue un monument historique majeur de la Chine. Elle attire des touristes du mondes enitier attirée par sa taille impressionnante et son aspect historique.
 
 Elle est également inscrite au patrimoine mondial de l'UNESCO depuis 1987.
 
 **_Le tourisme et le patrimoine_**
 
-Certains segmant du mur , comme Badaling , près de Pekin , on été aménagées pour acceuillir les visiteurs . La visite du lieu inclues les fortifications et les tours de guets qui permettent d'avoir une vue imprenable sur les paysages alentours.
+Certains segments du mur , comme Badaling , près de Pékin , on été aménagées pour accueillir les visiteurs . La visite du lieu inclues les fortifications et les tours de guet qui permettent d'avoir une vue imprenable sur les paysages alentours.
 La Muraille est donc un symbole de l'histoire chinoise 
 
 **_La Muraille nécessite un effort de conservation_**
@@ -128,7 +128,7 @@ Malgré son importance, le monument est confronté à plusieurs difficultés :
 * Les aménagements touristiques, qui peuvent modifier l'aspect de certains paysages.
 * Les besoins de restauration, car les différentes sections ne sont pas toutes dans le même état de conservation.
 
-**C'est pour ça que la Muraille est un patrimoine à protéger.** Elle nécessite de nombreux travaux d'entretien et de réstauration , adapté à chaque section. L'objectif est de protéger les vestiges historiques tout en permettant au public de les découvrir.
+**C'est pour ça que la Muraille est un patrimoine à protéger.** Elle nécessite de nombreux travaux d'entretien et de restauration , adaptés à chaque section. L'objectif est de protéger les vestiges historiques tout en permettant au public de les découvrir.
 Car , même si sa fonction militaire a disparu, la Grande Muraille conserve une grande importance historique et culturelle. 
 
 
