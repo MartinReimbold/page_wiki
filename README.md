@@ -60,7 +60,12 @@ Architecture et caractéristiquesArchitecture et caractéristiquesArchitecture e
 
 Rôle militaire et stratégique
 =
-Rôle militaire et stratégiqueRôle militaire et stratégiqueRôle militaire et stratégiqueRôle militaire et stratégiqueRôle militaire et stratégiqueRôle militaire et stratégiqueRôle militaire et stratégiqueRôle militaire et stratégiqueRôle militaire et stratégiqueRôle militaire et stratégique
+Le bût de cette muraille été pricnipalement de surveiller et de défendre la frontière nord de la Chine . Elles font partie d'un ensemble de fortifications , de tours de guet et de forteresses. 
+
+La Muraille permetté donc de : 
+* Surveiller les alentours depuis les tours de guet , pour voir les mouvements ennemis.
+* Transmettre des alertes grâce à des signaux de fumée , pour prevenir d'autres postes de la muraille
+* Contrôler les passages empruntés par les voyageurs et els marchands
 
 La Grande Muraille aujourd'hui
 = 
