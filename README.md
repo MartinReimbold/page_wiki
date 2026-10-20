@@ -22,6 +22,7 @@ La Grande Muraille de Chine regroupe un ensemble de systèmes de défenses compo
 
 Pour la Grande Muraille de Chine  ,Tout commence aux alentours de la **Periode des primtemps et Automnes** ,  771 à 481/453 av J.-C. Et de la période des Royaumes combattants (475-221 av J.-C.). 
 Sous les ordres du premier empereur de Chine ,**Qin Shi Huang** (empereur de Chine , rattaché à la Dynastie Qin), sont reliées entre elles les multitudes de fortifications construites par ces divers Etats.L’objectif recherché par l’empereur était claire , proteger le territoire nouvellement fondé de sa dynastie (221-206 av J-C) des différentes incursions nomades des steppes du nord.Les murs s’étendent du **Gansu** jusqu’à la côte sud de la **Mandchourie** .
+
 L'histoire de la Grande Muraille de Chine commence lorsque des fortifications construites par divers États de la période des Printemps et Automnes (771 - 476 av. J.-C.) et de la période des Royaumes combattants (475 - 221 av. J.-C.) sont reliées entre elles sur ordre de Qin Shi Huang, le premier empereur de Chine, pour protéger le territoire de la dynastie Qin (221 - 206 av. J.-C.) nouvellement fondée contre les incursions des nomades des steppes du nord. Les murs qui la composent sont construits en terre battue, en utilisant le travail forcé. Finalement, en 212 av. J.-C., elle s'étend du Gansu jusqu'à la côte du sud de la Mandchourie.
 
 Histoire de la construction
@@ -43,3 +44,12 @@ Rôle militaire et stratégiqueRôle militaire et stratégiqueRôle militaire et
 La Grande Muraille aujourd'hui
 = 
 La Grande Muraille aujourd'huiLa Grande Muraille aujourd'huiLa Grande Muraille aujourd'huiLa Grande Muraille aujourd'huiLa Grande Muraille aujourd'huiLa Grande Muraille aujourd'huiLa Grande Muraille aujourd'huiLa Grande Muraille aujourd'huiLa Grande Muraille aujourd'huiLa Grande Muraille aujourd'huiLa Grande Muraille aujourd'huiLa Grande Muraille aujourd'huiLa Grande Muraille aujourd'huiLa Grande Muraille aujourd'hui
+
+Source
+=
+- [Wikipedia](https://fr.wikipedia.org/wiki/Grande_Muraille)
+-
+-
+-
+-
+-
